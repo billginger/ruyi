@@ -1,6 +1,8 @@
 {
   "compileType": "miniprogram",
   "libVersion": "trial",
+  "appid": "wx4d174ab7a2447f24",
+  "projectname": "ruyi",
   "packOptions": {
     "ignore": [],
     "include": []
@@ -8,10 +10,11 @@
   "setting": {
     "coverView": true,
     "es6": true,
+    "enhance": true,
     "postcss": true,
     "minified": true,
-    "enhance": true,
     "showShadowRootInWxmlPanel": true,
+    "compileHotReLoad": true,
     "packNpmRelationList": [],
     "babelSetting": {
       "ignore": [],
@@ -23,6 +26,5 @@
   "editorSetting": {
     "tabIndent": "auto",
     "tabSize": 2
-  },
-  "appid": "wx4d174ab7a2447f24"
+  }
 }
